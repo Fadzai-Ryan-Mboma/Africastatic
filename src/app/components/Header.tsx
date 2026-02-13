@@ -31,7 +31,7 @@ export function Header() {
             <Globe className="w-8 h-8 text-white relative z-10" />
           </div>
           <span className="text-2xl font-bold bg-gradient-to-r from-orange-400 via-purple-400 to-green-400 bg-clip-text text-transparent">
-            AfricaLLM
+            Akili
           </span>
         </motion.div>
         

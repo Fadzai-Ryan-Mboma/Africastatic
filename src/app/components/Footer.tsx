@@ -13,7 +13,7 @@ export function Footer() {
                 <Globe className="w-8 h-8 text-white relative z-10" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-orange-400 via-purple-400 to-green-400 bg-clip-text text-transparent">
-                AfricaLLM
+                Akili
               </span>
             </div>
             <p className="text-gray-400 mb-6 max-w-sm">
@@ -82,7 +82,7 @@ export function Footer() {
         {/* Bottom bar */}
         <div className="pt-8 border-t border-white/10 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-gray-400 text-sm">
-            © 2026 AfricaLLM. All rights reserved.
+            © 2026 Akili. All rights reserved.
           </p>
           <div className="flex gap-6 text-sm text-gray-400">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
